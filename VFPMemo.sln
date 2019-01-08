@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFPMemo", "VFPMemo\VFPMemo.csproj", "{B2B5C7B9-12C4-40B5-9760-BBF7CDB0B16B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes", "Testes\Testes.csproj", "{70B9B46B-5418-448C-9331-6468D3B3C034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFPMemo", "VFPMemo2\VFPMemo.csproj", "{BEE0804C-78FD-4E54-A20B-DE0DBC50F6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B2B5C7B9-12C4-40B5-9760-BBF7CDB0B16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2B5C7B9-12C4-40B5-9760-BBF7CDB0B16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2B5C7B9-12C4-40B5-9760-BBF7CDB0B16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2B5C7B9-12C4-40B5-9760-BBF7CDB0B16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B9B46B-5418-448C-9331-6468D3B3C034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B9B46B-5418-448C-9331-6468D3B3C034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B9B46B-5418-448C-9331-6468D3B3C034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B9B46B-5418-448C-9331-6468D3B3C034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE0804C-78FD-4E54-A20B-DE0DBC50F6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE0804C-78FD-4E54-A20B-DE0DBC50F6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE0804C-78FD-4E54-A20B-DE0DBC50F6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE0804C-78FD-4E54-A20B-DE0DBC50F6C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
